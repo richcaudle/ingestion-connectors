@@ -1,0 +1,10 @@
+Requires you follow items 1 and 2 of this guide:
+	https://developers.google.com/gmail/api/quickstart/quickstart-python
+
+When you Create a New Client ID for API access:
+	Specify http://localhost:8080 as the redirect URI
+	Save the resulting JSON as creds.json in this folder
+
+Also you need to PIP install python-gflags
+
+Run sync.py

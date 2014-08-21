@@ -52,3 +52,12 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+
+# Specific for this project
+
+gmail-connector/creds.json
+gmail-connector/gmail.storage
+zendesk-connector/config.yml
+example-*
+output.json
+

@@ -1,0 +1,11 @@
+Worth reading this doc first:
+	http://developer.zendesk.com/documentation/rest_api/introduction.html
+
+Create a YAML file, saved as config.yml in the root of this project. Include the following:
+
+zendesk:
+    api_base:   'https://YOUR_ZENDESK_DOMAIN/api/v2'
+    user: 'YOUR_USERNAME'
+    pwd: 'YOUR_PASSWORD'
+
+Run sync.py
